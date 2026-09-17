@@ -7,17 +7,13 @@ I am a Computer Engineering student interested in **software development, artifi
 I enjoy building practical projects that combine software engineering with AI and modern development tools.
 
 ---
-
-## 🚀 Featured Projects
-
 ### 🤖 AI Product Recommendation System
 
 An AI-powered product recommendation system developed with **Java, PostgreSQL, pgvector, and OpenAI Embeddings API**.
 
 The project focuses on semantic product similarity and vector-based recommendation using product information and embeddings.
 
-**Technologies:**
-`Java` `PostgreSQL` `pgvector` `OpenAI API` `Maven`
+**Technologies:** `Java` `PostgreSQL` `pgvector` `OpenAI API` `Maven`
 
 ---
 
@@ -27,8 +23,17 @@ An AI-powered sneaker recommendation system built with **Spring Boot, PostgreSQL
 
 The project focuses on generating structured product knowledge and using it as a foundation for intelligent recommendation scenarios.
 
-**Technologies:**
-`Java` `Spring Boot` `PostgreSQL` `pgvector` `AI`
+**Technologies:** `Java` `Spring Boot` `PostgreSQL` `pgvector` `AI`
+
+---
+
+### 🧠 AI Knowledge Builder
+
+An AI-powered knowledge generation and outfit analysis service built with **Spring Boot, Java, and OpenAI**.
+
+The project generates structured fashion knowledge from product and image information, normalizes AI-generated attributes, and provides outfit analysis capabilities through REST APIs.
+
+**Technologies:** `Java` `Spring Boot` `OpenAI API` `REST API` `Maven`
 
 ---
 
@@ -38,8 +43,7 @@ A hands-on DevOps project demonstrating an automated CI/CD workflow using **Azur
 
 The project builds a Docker image, validates Kubernetes manifests, and deploys the application to a local Kubernetes cluster running through Docker Desktop.
 
-**Technologies:**
-`Azure DevOps` `Azure Pipelines` `Docker` `Kubernetes` `Nginx` `kubectl`
+**Technologies:** `Azure DevOps` `Azure Pipelines` `Docker` `Kubernetes` `Nginx` `kubectl`
 
 ---
 
